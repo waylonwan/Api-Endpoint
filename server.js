@@ -36,7 +36,7 @@ app.get('/api-endpoint', function(request, response) {
 	transactions: [{transId: 0, transName: "(Bill: 4/2020)", transDesc: "Club SIM - Bill: 8048903747", transType: "Earn", transBalance: 2, transDate: "23/05/2020"},
 				  {transId: 1, transName: "(Bill: 4/2020)", transDesc: "1O1O - Bill: 75100213338565", transType: "Earn", transBalance: 35, transDate: "23/05/2020"},
 				  {transId: 2, transName: "1O1O Service Plan Renewal Offer", transType: "Earn", transBalance: 1500, transDate: "22/05/2020"},
-				  {transId: 3, transName: "Club Like Purchase", transDesc: "order no:3000038875", transType: "Earn", transBalance: 1500, transDate: "08/05/2020"},
+				  {transId: 3, transName: "Club Like Purchase", transDesc: "order no:3000038875", transType: "Earn", transBalance: 23, transDate: "08/05/2020"},
 				  {transId: 4, transName: "(Bill: 3/2020)", transDesc: "1O1O - Bill: 75100213338565", transType: "Earn", transBalance: 35, transDate: "23/04/2020"},
 				  {transId: 5, transName: "(Bill: 2/2020)", transDesc: "1O1O - Bill: 75100213338565", transType: "Earn", transBalance: 38, transDate: "23/03/2020"},
 				  {transId: 6, transName: "Club SIM - Service Pack", transType: "Burn", transBalance: 510, transDate: "14/01/2020"},
