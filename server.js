@@ -32,7 +32,7 @@ app.get('/api-endpoint', function(request, response) {
 	birthMonth: 6,
 	email: "stanley.ng@hkt.com",
 	balance: 6505,
-	expBalance: [{balance: 2000, expDate: "31/03/2021"}, {balance: 2505, expDate: "30/09/2021"}, {balance: 2000, expDate: "31/12/2021"}],
+	expBalance: [expBalanceId: 0, balance: 2000, expDate: "31/03/2021"}, {expBalanceId: 1, balance: 2505, expDate: "30/09/2021"}, {expBalanceId: 2, balance: 2000, expDate: "31/12/2021"}],
 	transaction: [{transId: 0, transName: "(Bill: 4/2020)", transDesc: "Club SIM - Bill: 8048903747", transType: "Earn", transBalance: 2, transDate: "23/05/2020"},
 				  {transId: 1, transName: "(Bill: 4/2020)", transDesc: "1O1O - Bill: 75100213338565", transType: "Earn", transBalance: 35, transDate: "23/05/2020"},
 				  {transId: 2, transName: "1O1O Service Plan Renewal Offer", transType: "Earn", transBalance: 1500, transDate: "22/05/2020"},
