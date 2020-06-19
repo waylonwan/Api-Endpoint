@@ -39,9 +39,9 @@ app.get('/api-endpoint', function(request, response) {
 				  {transId: 3, transName: "Club Like Purchase", transDesc: "order no:3000038875", transType: "Earn", transBalance: 23, transDate: "08/05/2020"},
 				  {transId: 4, transName: "(Bill: 3/2020)", transDesc: "1O1O - Bill: 75100213338565", transType: "Earn", transBalance: 35, transDate: "23/04/2020"},
 				  {transId: 5, transName: "(Bill: 2/2020)", transDesc: "1O1O - Bill: 75100213338565", transType: "Earn", transBalance: 38, transDate: "23/03/2020"},
-// 				  {transId: 6, transName: "Club SIM - Service Pack", transType: "Burn", transBalance: 510, transDate: "14/01/2020"},
-// 				  {transId: 7, transName: "broadway circuit Ticket Exchange Coupon (1pc) (Quantity: 1)", transType: "Burn", transBalance: 500, transDate: "27/09/2019"},
-// 				  {transId: 8, transName: "Club SIM - Service Pack", transType: "Burn", transBalance: 75, transDate: "30/06/2019"},
+				  {transId: 6, transName: "Club SIM - Service Pack", transType: "Burn", transBalance: 510, transDate: "14/01/2020"},
+				  {transId: 7, transName: "broadway circuit Ticket Exchange Coupon (1pc) (Quantity: 1)", transType: "Burn", transBalance: 500, transDate: "27/09/2019"},
+				  {transId: 8, transName: "Club SIM - Service Pack", transType: "Burn", transBalance: 75, transDate: "30/06/2019"},
 				  {transId: 9, transName: "Club SIM - Service Pack", transType: "Burn", transBalance: 75, transDate: "30/05/2019"}]
 };
     
