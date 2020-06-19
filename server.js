@@ -19,12 +19,12 @@ app.get('/api-endpoint', function(request, response) {
 //         };
     
     var jsonContent = { 
-	username: "WAYLON WAN",//"STANLEY NG",
+	username: "STANLEY NG",	// "WAYLON WAN"
 	memberId: 8148862405,
-	currentTier: "Silver",//"Gold",
+	currentTier: "Gold",	// "Silver"
 	currentTierStartDate: "2020-02-15",
 	currentTierEndDate: "2022-02-14",
-	previousTier: "Silver ",
+	previousTier: "Silver",
 	previousTierStartDate: "2018-02-15",
 	previousTierEndDate: "2020-02-14",
 	joinDate: "2006-06-20",
