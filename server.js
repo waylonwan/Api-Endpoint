@@ -21,7 +21,7 @@ app.get('/api-endpoint', function(request, response) {
     var jsonContent = { 
 	username: "WAYLON WAN",//"STANLEY NG",
 	memberId: 8148862405,
-	currentTier: "Silver"//"Gold",
+	currentTier: "Silver",//"Gold",
 	currentTierStartDate: "2020-02-15",
 	currentTierEndDate: "2022-02-14",
 	previousTier: "Silver ",
